@@ -35,6 +35,7 @@ class Solution {
         }
         System.out.println();
     }
+    
 }
 
 // Main class
